@@ -1,0 +1,5 @@
+<resources>
+    <string name="my_notification_title">“%1$s”正在运行</string>
+    <string name="my_notification_content">点按即可了解详情或停止应用</string>
+
+</resources>

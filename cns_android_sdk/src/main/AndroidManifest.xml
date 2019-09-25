@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="cns.workspace.lib.androidsdk">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application android:allowBackup="true"
+        android:supportsRtl="true"
+        android:networkSecurityConfig="@xml/network_security">
+        <!--<uses-library android:name="org.apache.http.legacy" android:required="false" />-->
+        <activity android:name=".activity.CnsWebViewActivity"/>
+    </application>
+
+</manifest>

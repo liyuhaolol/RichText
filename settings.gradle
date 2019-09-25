@@ -1,0 +1,2 @@
+include ':app', ':cns_android_sdk'
+rootProject.name='RichText'

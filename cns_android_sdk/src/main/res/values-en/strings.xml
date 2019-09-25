@@ -1,0 +1,5 @@
+<resources>
+    <string name="my_notification_title">%1$s is running</string>
+    <string name="my_notification_content">Tap for more information or to stop the app.</string>
+
+</resources>
